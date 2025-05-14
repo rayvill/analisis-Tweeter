@@ -1,0 +1,12 @@
+
+---
+
+```txt
+pandas
+textblob
+wordcloud
+matplotlib
+seaborn
+scikit-learn
+nltk
+pillow==9.5.0
